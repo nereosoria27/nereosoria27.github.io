@@ -1,0 +1,14 @@
+h1 {
+    color:aqua;
+    font-size: 108px;
+
+}
+.hola {
+    border: 3px orange;
+
+}
+
+body {
+    margin:0;
+    padding:0;
+}
