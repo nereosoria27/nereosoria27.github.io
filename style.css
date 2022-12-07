@@ -8,21 +8,38 @@ h1 {
     font-size: 108px;
 
 }
-.hola {
-    border: 3px orange;
+.texto {
+    border: 10px orange;
     margin:150px ;
+    font: bold 100% "Segoe UI";
+    text-align: justify;
+/*    display: block;
+    position: absolute;*/
+  
 
 }
 
 body {
     padding:0;
+
 }
 footer {
     background-color: rgb(12, 44, 44);
     margin-top: 0px;
     height: 150px;
 }
-img{
+.mercosur{
     display:block;
     margin:auto;
+}
+.githublogo{
+    display:block;
+    margin: auto;
+    height: 100px;
+
+}
+.backgroundimage{
+/*   display: block;
+    position: relative;*/
+    height:200px;
 }
