@@ -1,14 +1,28 @@
+header {
+
+    background-color: aquamarine;
+}
+
 h1 {
-    color:aqua;
+    color:rgb(16, 68, 68);
     font-size: 108px;
 
 }
 .hola {
     border: 3px orange;
+    margin:150px ;
 
 }
 
 body {
-    margin:0;
     padding:0;
+}
+footer {
+    background-color: rgb(12, 44, 44);
+    margin-top: 0px;
+    height: 150px;
+}
+img{
+    display:block;
+    margin:auto;
 }
