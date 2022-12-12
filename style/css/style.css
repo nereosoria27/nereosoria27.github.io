@@ -1,5 +1,5 @@
 header {
-
+    margin-top: auto;
     background-color: aquamarine;
 }
 
@@ -9,7 +9,6 @@ h1 {
 
 }
 .texto {
-    border: 10px rgb(0, 5, 5);
     margin:150px ;
     font: bold 120% "Segoe UI";
     text-align: justify;
@@ -51,6 +50,7 @@ footer {
 }
 .tabla {
     border-collapse: collapse;
+    border-color: black;
 
 }
 .hipervinculo  { 
@@ -67,4 +67,16 @@ footer {
     -moz-border-radius: 35px 35px 35px 35px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
     border: 2px solid #486462;}
+td {
+    background-color: rgb(161, 255, 235);
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.cabecera {
+    background-color: rgb(225, 180, 255);
+
+}
     
