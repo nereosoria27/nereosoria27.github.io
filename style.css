@@ -9,7 +9,7 @@ h1 {
 
 }
 .texto {
-    border: 1000px rgb(28, 103, 105);
+    border: 10px rgb(0, 5, 5);
     margin:150px ;
     font: bold 120% "Segoe UI";
     text-align: justify;
@@ -54,6 +54,7 @@ footer {
 
 }
 .hipervinculo  { 
+    
     font: bold 120% "Segoe UI";
     color: #ffffff; 
     font-size: 18px; 
